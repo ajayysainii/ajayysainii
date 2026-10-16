@@ -22,17 +22,17 @@
 
 ```yaml
 Name: Ajay Saini
-Role: Cybersecurity Enthusiast & AI/ML Developer
-Core Interests: [Cyber Threat Intelligence, SOC Automation, Intrusion Detection, Anomaly Prediction]
-Current Project: Cyber-Security-Prediction-System (AI SOC Analyzer)
-Primary Language: Python
-Philosophy: "Defense in depth powered by predictive machine learning."
+Role: Data Analyst & AI/ML Developer
+Core Interests: [Business Intelligence, Cohort Retention, Unit Economics, Advanced SQL, Predictive ML]
+Featured Work: Customer-Retention-Unit-Economics-Intelligence & Cyber-Security-Prediction-System
+Primary Tools: SQL, Python, Pandas, Streamlit, Plotly, Scikit-Learn
+Philosophy: "Turning complex transaction telemetry into actionable EBITDA profit expansion."
 ```
 
-- 🔭 **Working On:** AI-based intrusion detection pipelines and proactive threat hunting architectures.
-- 🌱 **Learning & Researching:** Advanced adversary tactics, MITRE ATT&CK® matrix, and real-time NetFlow telemetry classification.
-- 💡 **Passion:** Bridging the gap between Machine Learning and Security Operations Centers (SOC) to detect zero-day attacks with sub-second SLAs.
-- 💬 **Ask Me About:** Python, Scikit-Learn, Streamlit, Network Telemetry, DDoS & Ransomware Mitigation.
+- 🔭 **Working On:** Enterprise unit economics, cohort retention decay models, and AI predictive analytics.
+- 🌱 **Learning & Researching:** Advanced SQL window functions, multi-touch attribution, and real-time business intelligence pipelines.
+- 💡 **Passion:** Bridging the gap between raw data telemetry and C-Suite executive decision-making.
+- 💬 **Ask Me About:** SQL, Cohort Retention, RFM Segmentation, Unit Economics, Python, Streamlit, Machine Learning.
 - 📫 **Contact:** `ajayysaiini@gmail.com`
 
 ---
@@ -43,9 +43,11 @@ Philosophy: "Defense in depth powered by predictive machine learning."
 
 ### 💻 Languages & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🛡️ Cybersecurity & Defense
 ![Network Security](https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -63,7 +65,22 @@ Philosophy: "Defense in depth powered by predictive machine learning."
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 📊 [Customer-Retention-Unit-Economics-Intelligence](https://github.com/ajayysainii/Customer-Retention-Unit-Economics-Intelligence)
+> *Enterprise Omnichannel Customer Retention, Cohort Churn & Profit Leakage Analytics Suite using Advanced SQL, Python & Streamlit*
+
+[![Customer Retention Repo](https://github-readme-stats.vercel.app/api/pin/?username=ajayysainii&repo=Customer-Retention-Unit-Economics-Intelligence&theme=tokyonight&hide_border=true)](https://github.com/ajayysainii/Customer-Retention-Unit-Economics-Intelligence)
+
+</div>
+
+- **Key Highlights:** 10+ Advanced SQL scripts (CTEs, Window Functions, Cohort Retention Pivots, RFM Quantiles).
+- **Business Intelligence:** Interactive Streamlit Cockpit, 3D RFM Clustering, RTO Reverse Logistics Leakage, and What-If EBITDA Simulator.
+- **Machine Learning:** Proactive Churn Risk Classifier (`ROC-AUC = 0.988`) with automated VIP retention alerts.
+
+<br>
 
 <div align="center">
 
